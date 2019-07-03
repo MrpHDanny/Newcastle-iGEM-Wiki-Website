@@ -129,3 +129,12 @@ header.masthead{
     background-position: center center;
     background-size: cover;
 }
+
+a.btn.btn-primary.btn-xl.text-uppercase.js-scroll-trigger{
+    margin-top: 600px;
+    margin-bottom: 50px;
+}
+
+abbr{
+    text-decoration: none!important;
+}
