@@ -1,0 +1,175 @@
+/* person icon */
+
+.person {
+    margin: 9px;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background-size: cover;
+    transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    box-shadow: 0 1rem 1rem rgba(0, 0, 0, .3);
+}
+
+/* person icon on hover */
+
+.person:hover {
+    height: 180px;
+    width: 180px;
+}
+
+/* Selected person icon */
+
+.selected-person {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+    box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.3);
+    background-size: cover;
+}
+
+/* carousel items  */
+
+.carousel-item {
+    height: 960px;
+}
+
+/* Carousel indicators */
+
+ol.carousel-indicators{
+    bottom: -50px;
+}
+
+
+
+
+
+
+
+
+
+
+/* people icons */
+
+#alice-selected, #alice-icon{
+    background-image: url("people/Alice.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 220%;
+}
+
+#karen-selected, #karen-icon{
+    background-image: url("people/Karen.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 220%;
+}
+
+#matthew-selected, #matthew-icon{
+    background-image: url("people/Matt.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 220%;
+}
+
+#connor-selected, #connor-icon{
+    background-image: url("people/Connor.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 220%;
+}
+
+#spencer-selected, #spencer-icon{
+    background-image: url("people/Spencer.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 220%;
+}
+
+#emily-selected, #emily-icon{
+    background-image: url("people/Emily.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 220%;
+}
+
+#daniel-selected, #daniel-icon{
+    background-image: url("people/Daniel.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 220%;
+}
+
+#jasmine-selected, #jasmine-icon{
+    background-image: url("people/jasmine.jpg");
+}
+
+#bradley-selected, #bradley-icon {
+    background-image: url("people/bradley.png");
+}
+
+#alba-selected, #alba-icon {
+    background-image: url("people/alba.png");
+}
+
+#colette-selected, #colette-icon{
+    background-image: url("people/colette.png");
+}
+
+#howard-selected, #howard-icon{
+    background-image: url("people/howard.jpg");
+}
+
+#angel-selected, #angel-icon{
+}
+
+#jon-selected, #jon-icon{
+}
+
+#jem-selected, #jem-icon{
+}
+
+#dana-selected, #dana-icon{
+    background-image: url("people/dana.jpg");
+}
+
+#frank-selected, #frank-icon{
+}
+
+#alex-selected, #alex-icon{
+    background-image: url("people/Alex.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 220%;
+}
+
+#harold-selected, #harold-icon{
+}
+
+#maxim-selected, #maxim-icon{
+}
+
+#vasilios-selected, #vasilios-icon{
+}
+
+#ethan-selected, #ethan-icon{
+}
+
+#martyn-selected, #martyn-icon{
+}
+
+#anne-selected, #anne-icon{
+}
+
+#maria-selected, #maria-icon{
+    background-image: url("people/maria.jpg");
+}
+
+#alicebanks-selected, #alicebanks-icon{
+    background-image: url("people/alicebanks.jpg");
+}
+
+#gatehouse-selected, #gatehouse-icon{
+}
